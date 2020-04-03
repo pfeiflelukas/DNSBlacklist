@@ -1,0 +1,12 @@
+local-zone: "facebook.com" refuse
+local-zone: "instagram.com" refuse
+local-zone: "pinterest.com" refuse
+local-zone: "tumblr.com" refuse
+local-zone: "twitter.com" refuse
+local-zone: "flickr.com" refuse
+local-zone: "snapchat.com" refuse
+local-zone: "whatsapp.com" refuse
+local-zone: "quora.com" refuse
+local-zone: "vine.co." refuse
+local-zone: "periscope.tv" refuse
+local-zone: "viber.com" refuse
