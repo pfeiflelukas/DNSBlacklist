@@ -69,10 +69,8 @@ local-zone: "fm." refuse
 local-zone: "fo." refuse
 local-zone: "fr." refuse
 local-zone: "ga." refuse
-#local-zone: "gd." refuse DISCORD
 local-zone: "ge." refuse
 local-zone: "gf." refuse
-#local-zone: "gg." refuse DISCORD
 local-zone: "gh." refuse
 local-zone: "gi." refuse
 local-zone: "gl." refuse
@@ -97,7 +95,6 @@ local-zone: "ie." refuse
 local-zone: "il." refuse
 local-zone: "im." refuse
 local-zone: "in." refuse
-#local-zone: "io." refuse ZED Run
 local-zone: "iq." refuse
 local-zone: "ir." refuse
 local-zone: "is." refuse
